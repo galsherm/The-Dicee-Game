@@ -1,0 +1,1 @@
+randomNumber1 = Math.random(1,6);
