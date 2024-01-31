@@ -25,7 +25,7 @@
 *.log
 *.sql
 *.sqlite
-#Temporary File
+# Temporary File
 *.tmp 
 # OS generated files #
 ######################
